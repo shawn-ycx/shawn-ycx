@@ -14,6 +14,10 @@
   <a href="https://www.linkedin.com/in/shawnycx/" target='_blank' rel='noopener noreferrer'>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
+  <a href="https://stackoverflow.com/users/9430279/shawn-yap" target='_blank' rel='noopener noreferrer'>
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>&nbsp;&nbsp;  
 </p>
 
 <p align='center'>
