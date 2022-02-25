@@ -3,14 +3,6 @@
 </h1>
 
 <p align="center">
-  A frontend developer from Austin, Texas.
-</p>
-
-<p align="center">
-  Currently working at <a href="https://www.bigcommerce.com/" target="_blank" rel="noopener noreferrer">BigCommerce</a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/shawnycx/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -21,12 +13,24 @@
 </p>
 
 <p align="center">
+  A frontend developer from Austin, Texas.
+</p>
+
+<p align="center">
+  Currently working at <a href="https://www.bigcommerce.com/" target="_blank" rel="noopener noreferrer">BigCommerce</a>
+</p>
+
+<p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shawn-ycx&show_icons=true&count_private=true&theme=dark" width="350"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=shawnycx&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align="center">
   📫 How to reach me: <a href="mailto:shawnycx@gmail.com">shawnycx@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3q2WMhNcyFOWP280/giphy.gif" alt="Chill computer guy in chair sliding left to right" />
 </p>
 
 <details>
